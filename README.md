@@ -5,7 +5,7 @@
   <img  style=" display:inline" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=litalsh12&show_icons=true&layout=compact&line_height=26&card_width=30&theme=dracula" />
 </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style=" display:inline" width="350" height="26" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litalsh12&layout=compact&langs_count=6&exclude_repo=ML_learning&line_height=25&theme=dracula" />
+  <img style=" display:inline" width="350" height="260" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litalsh12&layout=compact&langs_count=6&exclude_repo=ML_learning&line_height=25&theme=dracula" />
 </a>
 <!-- &theme=radical -->
 </p>
